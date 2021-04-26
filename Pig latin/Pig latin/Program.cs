@@ -10,8 +10,7 @@ namespace Pig_latin
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("I dont know how to write a program for a speech based game. There were few instructions so I just kinda made something IDK what but yeah.");
-            Console.WriteLine("This is something I made and as always just type in - to exit the program.");
+            Console.WriteLine("Type in - to exit the program.");
             Console.WriteLine("Press any key to continue.");
             Console.ReadKey();
             while (true)
@@ -25,6 +24,7 @@ namespace Pig_latin
                 Console.Clear();
                 Console.WriteLine("Input word to translate into pig latin: ");
                 word = Console.ReadLine();
+                word = word.ToLower();
                 var letters = word.ToArray();
                 List<char> wordList = new List<char>(word.Length);
                 wordListLength = word.Length;
