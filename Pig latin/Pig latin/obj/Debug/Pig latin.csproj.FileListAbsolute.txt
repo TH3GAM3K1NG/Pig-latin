@@ -1,0 +1,7 @@
+P:\Digital\VS\18Benjamin Shaw\OCR challenges\Pig latin\Pig latin\bin\Debug\Pig latin.exe.config
+P:\Digital\VS\18Benjamin Shaw\OCR challenges\Pig latin\Pig latin\bin\Debug\Pig latin.exe
+P:\Digital\VS\18Benjamin Shaw\OCR challenges\Pig latin\Pig latin\bin\Debug\Pig latin.pdb
+P:\Digital\VS\18Benjamin Shaw\OCR challenges\Pig latin\Pig latin\obj\Debug\Pig latin.csprojAssemblyReference.cache
+P:\Digital\VS\18Benjamin Shaw\OCR challenges\Pig latin\Pig latin\obj\Debug\Pig latin.csproj.CoreCompileInputs.cache
+P:\Digital\VS\18Benjamin Shaw\OCR challenges\Pig latin\Pig latin\obj\Debug\Pig latin.exe
+P:\Digital\VS\18Benjamin Shaw\OCR challenges\Pig latin\Pig latin\obj\Debug\Pig latin.pdb
